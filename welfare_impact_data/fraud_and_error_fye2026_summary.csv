@@ -1,0 +1,13 @@
+Benefit_Category,Error_Type,Rate,Monetary_Value_Millions_GBP,Financial_Year,Source
+All Benefits,Total Overpayments,3.20%,9900,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+All Benefits,Total Underpayments,0.40%,1200,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+All Benefits,Fraud Overpayments,2.20%,6800,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+All Benefits,Claimant Error Overpayments,0.60%,2000,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+All Benefits,Official Error Overpayments,0.40%,1100,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+All Benefits,Net Loss from Overpayments (after recoveries),2.80%,8600,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+Universal Credit,Total Underpayments,0.40%,350,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+State Pension,Total Overpayments,0.20%,230,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+Disability Living Allowance,Total Underpayments,2.30%,190,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+Personal Independence Payment,Total Overpayments,2.30%,660,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+Personal Independence Payment,Total Underpayments,0.20%,70,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates
+Housing Benefit,Total Overpayments,6.20%,800,FYE 2026,DWP Fraud and error in the benefit system FYE 2026 estimates

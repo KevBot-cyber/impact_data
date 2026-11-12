@@ -1,0 +1,10 @@
+﻿Year,Scenario,Annual_Realised_Saving_£bn,Annual_Secondary_Costs_£bn,Annual_Net_£bn,Cumulative_Saving_£bn,Cumulative_Secondary_Costs_£bn,Cumulative_Net_£bn
+2027,Low Impact,18.41,6.44,11.97,18.41,6.44,11.97
+2031,Low Impact,30.68,10.74,19.94,130.41,45.64,84.77
+2036,Low Impact,30.68,10.74,19.94,283.81,99.34,184.47
+2027,Central Impact,15.16,9.85,5.31,15.16,9.85,5.31
+2031,Central Impact,25.27,16.43,8.84,107.4,69.81,37.59
+2036,Central Impact,25.27,16.43,8.84,233.75,151.96,81.79
+2027,High Impact,10.83,11.37,-0.54,10.83,11.37,-0.54
+2031,High Impact,18.05,18.95,-0.9,76.72,80.55,-3.83
+2036,High Impact,18.05,18.95,-0.9,166.97,175.3,-8.33

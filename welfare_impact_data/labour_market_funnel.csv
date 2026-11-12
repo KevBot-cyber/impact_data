@@ -1,0 +1,4 @@
+﻿scenario,affected,lose_entitlement,medically_capable,available_seeking,need_adjustments,cannot_find_suitable,remain_unemployed_or_inactive
+Illustrative low,1.0,0.4,0.2,0.16000000000000003,0.06400000000000002,0.08000000000000002,0.08000000000000002
+Illustrative central,1.0,0.6,0.36,0.306,0.153,0.1989,0.1989
+Illustrative high,1.0,0.8,0.5599999999999999,0.504,0.3024,0.4032,0.4032
